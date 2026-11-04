@@ -1,0 +1,6 @@
+{
+  "name": "Sincere Apology - Interactive Letter & Envelope",
+  "description": "A heartfelt, interactive apology website with a 3D animated envelope, sliding letter, cursor-dodging button, and soft pastel celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
